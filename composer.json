@@ -1,0 +1,19 @@
+{
+    "name": "sp3ctr380/seat-market",
+    "description": "Internal Market for SeAT",
+    "type": "seat-plugin",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Sp3ctr380",
+            "email": "ahowell80@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "eveseat/services": "^3.0",
+        "eveseat/eveapi": "^3.0",
+        "eveseat/web": "^3.0",
+        "eveseat/eseye": "^1.0"
+    }
+}
